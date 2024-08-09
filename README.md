@@ -12,4 +12,4 @@ I don't know the exact cause, but my mod, with literally the few simplest functi
 
 Move the `Hacker228-MakeVSSGreatAgain` folder to `[SPT_folder]/user/mods`.
 
-![Demo](https://i.imgur.com/SnpaYcK.gif)
+![Demo](https://github.com/Spaghetti-jpg/Make-Val-VSS-great-again-SPT-Mod/blob/main/demo.gif)
